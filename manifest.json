@@ -1,0 +1,11 @@
+{
+    "name": "Password Generator",
+    "version": "1.0.0",
+    "description": "Generates a random password",   
+    "manifest_version": 3,
+    "author": "@nocontent06",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Password Generator by @nocontent06"
+    }
+}
